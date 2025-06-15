@@ -1,4 +1,4 @@
-# mysql-project-1
+# Employee Management System
 # test_db
 A sample database with an integrated test suite, used to test your applications and database servers
 
